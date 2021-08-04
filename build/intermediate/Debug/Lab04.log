@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 4\lab 04 - sample object hierarchy\lab04\main.cpp(147): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 4\lab 04 - sample object hierarchy\lab04\main.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 4\lab 04 - sample object hierarchy\lab04\main.cpp(379): warning C4101: 'height': unreferenced local variable
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 4\lab 04 - sample object hierarchy\lab04\main.cpp(379): warning C4101: 'nrChannels': unreferenced local variable
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 4\lab 04 - sample object hierarchy\lab04\main.cpp(379): warning C4101: 'width': unreferenced local variable
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 4\lab 04 - sample object hierarchy\lab04\main.cpp(380): warning C4101: 'data': unreferenced local variable
+c:\users\sgal\documents\5th year\cs7gv3 - real-time rendering\assignments\labs\lab 4\lab 04 - sample object hierarchy\lab04\main.cpp(154): warning C4715: 'createFont': not all control paths return a value
+  Lab04.vcxproj -> C:\Users\sgal\Documents\5th Year\CS7GV3 - Real-Time Rendering\Assignments\Labs\Lab 4\Lab 04 - Sample Object Hierarchy\\build\executables\Debug\Lab 04.exe
